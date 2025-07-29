@@ -1,0 +1,108 @@
+2025-07-29 00:00:24,078 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:24,091 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:24,144 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:24,144 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:26,978 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:26,978 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:27,033 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:27,033 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:28,959 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:28,959 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:29,006 [INFO] I2sManager:658 - 1.5E8
+2025-07-29 00:00:29,006 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
+2025-07-29 00:00:37,989 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:00:37,989 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:00:38,073 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:00:38,073 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:00:39,667 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:00:39,667 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:00:42,821 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:00:42,834 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:00:42,834 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:00:42,834 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
+2025-07-29 00:00:42,856 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:01:08,103 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 812798936 Bytes (1073741824)
+2025-07-29 00:01:15,608 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,608 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,617 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,617 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,617 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,617 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,643 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,643 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,644 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,644 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:01:15,648 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:01:20,187 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:01:20,187 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:01:20,187 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
+2025-07-29 00:01:22,598 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,559x307,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:01:35,289 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:01:51,587 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 914844104 Bytes (1073741824)
+2025-07-29 00:01:54,847 [INFO] I2sManager:658 - 1.355E8
+2025-07-29 00:01:54,847 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
+2025-07-29 00:01:54,847 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
+2025-07-29 00:01:57,702 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 788844144 Bytes (1073741824)
+2025-07-29 00:02:11,633 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,652 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,716 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:02:11,783 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:02:11,868 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,946 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:12,003 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-07-29 00:02:29,114 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:29,114 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:29,119 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-29 00:02:48,652 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-29 00:03:02,248 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 719953912 Bytes (1073741824)
