@@ -1,108 +1,189 @@
-2025-07-29 00:00:24,078 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:24,091 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:24,144 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:24,144 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:26,978 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:26,978 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:27,033 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:27,033 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:28,959 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:28,959 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:29,006 [INFO] I2sManager:658 - 1.5E8
-2025-07-29 00:00:29,006 [INFO] I2sManager:195 - I2S Clock Value : 1.5E8
-2025-07-29 00:00:37,989 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:00:37,989 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:00:38,073 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:00:38,073 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:00:39,667 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:00:39,667 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:00:42,821 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:00:42,834 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:00:42,834 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:00:42,834 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
-2025-07-29 00:00:42,856 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:01:08,103 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 812798936 Bytes (1073741824)
-2025-07-29 00:01:15,608 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,608 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,617 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,617 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,617 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,617 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,643 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,643 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,644 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,644 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:01:15,648 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:01:20,187 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:01:20,187 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:01:20,187 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
-2025-07-29 00:01:22,598 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,559x307,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:01:35,289 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:01:51,587 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 914844104 Bytes (1073741824)
-2025-07-29 00:01:54,847 [INFO] I2sManager:658 - 1.355E8
-2025-07-29 00:01:54,847 [INFO] I2sManager:195 - I2S Clock Value : 1.355E8
-2025-07-29 00:01:54,847 [INFO] I2sManager:553 - AudioClock : 44108Divider : 48Odd : 0
-2025-07-29 00:01:57,702 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 788844144 Bytes (1073741824)
-2025-07-29 00:02:11,633 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,645 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,652 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,716 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:02:11,783 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:02:11,868 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,926 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,927 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,946 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:11,983 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:12,003 [INFO] ADCParametersView:116 -                Rank 1 : false
-2025-07-29 00:02:29,114 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:29,114 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:29,119 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2025-07-29 00:02:48,652 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
-2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,719 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,720 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:02:48,733 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
-2025-07-29 00:03:02,248 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 719953912 Bytes (1073741824)
+2025-07-30 00:13:52,831 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-07-30 00:13:54,086 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1821mS.
+2025-07-30 00:13:54,087 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2025-07-30 00:13:54,089 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2025-07-30 00:14:52,212 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 837264056 Bytes (1073741824)
+2025-07-30 00:14:53,309 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 873441976 Bytes (1073741824)
+2025-07-30 00:14:56,063 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 916955672 Bytes (1073741824)
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USB_DEVICE
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2S
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ADC
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USB_OTG_FS
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DMA
+2025-07-30 00:14:56,568 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-07-30 00:14:56,568 [INFO] CodeGenerator:807 - code generatio: config db path: E:\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2025-07-30 00:14:56,572 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-30 00:14:56,572 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : hdmavalue: null
+2025-07-30 00:14:56,573 [INFO] Argument:327 - 	 sub Args: 
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream3
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream3
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Initvalue: null
+2025-07-30 00:14:56,573 [INFO] Argument:327 - 	 sub Args: 
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_3
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_3
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-07-30 00:14:56,573 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-07-30 00:14:56,573 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Lockvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Lockvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Statevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Statevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Parentvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Parentvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : hdmavalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:327 - 	 sub Args: 
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream4
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream4
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Initvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:327 - 	 sub Args: 
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_0
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_0
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Lockvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Lockvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Statevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Statevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : Parentvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : Parentvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2025-07-30 00:14:56,574 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2025-07-30 00:14:56,579 [WARN] IP:2191 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-30 00:14:56,579 [WARN] IP:2191 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-30 00:14:56,579 [WARN] IP:2191 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2025-07-30 00:14:56,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\license.tmp_save
+2025-07-30 00:14:56,667 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\license.tmp
+2025-07-30 00:14:56,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\gpio.c_save
+2025-07-30 00:14:56,728 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\gpio.c
+2025-07-30 00:14:56,731 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\gpio.h_save
+2025-07-30 00:14:56,770 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\gpio.h
+2025-07-30 00:14:56,786 [WARN] IPConfigManager:3005 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-07-30 00:14:56,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-07-30 00:14:56,842 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-07-30 00:14:56,851 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-07-30 00:14:56,883 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-07-30 00:14:56,885 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-07-30 00:14:56,936 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-07-30 00:14:56,939 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-07-30 00:14:57,007 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-07-30 00:14:57,126 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2025-07-30 00:14:57,138 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\adc.c_save
+2025-07-30 00:14:57,193 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\adc.c
+2025-07-30 00:14:57,197 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\adc.h_save
+2025-07-30 00:14:57,232 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\adc.h
+2025-07-30 00:14:57,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\dma.c_save
+2025-07-30 00:14:57,298 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\dma.c
+2025-07-30 00:14:57,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\dma.h_save
+2025-07-30 00:14:57,335 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\dma.h
+2025-07-30 00:14:57,346 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\i2c.c_save
+2025-07-30 00:14:57,393 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\i2c.c
+2025-07-30 00:14:57,396 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\i2c.h_save
+2025-07-30 00:14:57,430 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\i2c.h
+2025-07-30 00:14:57,440 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\i2s.c_save
+2025-07-30 00:14:57,492 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\i2s.c
+2025-07-30 00:14:57,495 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\i2s.h_save
+2025-07-30 00:14:57,528 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\i2s.h
+2025-07-30 00:14:57,539 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\usart.c_save
+2025-07-30 00:14:57,588 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\usart.c
+2025-07-30 00:14:57,591 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\usart.h_save
+2025-07-30 00:14:57,631 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\usart.h
+2025-07-30 00:14:57,644 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2025-07-30 00:14:57,655 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usb_device.c_save
+2025-07-30 00:14:57,704 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usb_device.c
+2025-07-30 00:14:57,715 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usb_device.h_save
+2025-07-30 00:14:57,753 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usb_device.h
+2025-07-30 00:14:57,755 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\Target\usbd_conf.h_save
+2025-07-30 00:14:57,792 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\Target\usbd_conf.h
+2025-07-30 00:14:57,804 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\Target\usbd_conf.c_save
+2025-07-30 00:14:57,887 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\Target\usbd_conf.c
+2025-07-30 00:14:57,890 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_desc.h_save
+2025-07-30 00:14:57,924 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_desc.h
+2025-07-30 00:14:57,938 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_desc.c_save
+2025-07-30 00:14:57,999 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_desc.c
+2025-07-30 00:14:58,003 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_cdc_if.h_save
+2025-07-30 00:14:58,038 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_cdc_if.h
+2025-07-30 00:14:58,048 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_cdc_if.c_save
+2025-07-30 00:14:58,100 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\USB_DEVICE\App\usbd_cdc_if.c
+2025-07-30 00:14:58,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\stm32f4xx_it.c_save
+2025-07-30 00:14:58,154 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\stm32f4xx_it.c
+2025-07-30 00:14:58,156 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\stm32f4xx_it.h_save
+2025-07-30 00:14:58,189 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\stm32f4xx_it.h
+2025-07-30 00:14:58,202 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\stm32f4xx_hal_msp.c_save
+2025-07-30 00:14:58,254 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\stm32f4xx_hal_msp.c
+2025-07-30 00:14:58,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\system.tmp_save
+2025-07-30 00:14:58,287 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\MXTmpFiles\system.tmp
+2025-07-30 00:14:58,298 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-07-30 00:14:58,355 [INFO] CodeEngine:335 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\stm32f4xx_hal_conf.h
+2025-07-30 00:14:58,380 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Inc\main.h_save
+2025-07-30 00:14:58,423 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Inc\main.h
+2025-07-30 00:14:58,432 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\henry\audio_codec\audio_codec\Core\Src\main.c_save
+2025-07-30 00:14:58,473 [INFO] CodeEngine:279 - Generated code: C:\Users\henry\audio_codec\audio_codec\Core\Src\main.c
+2025-07-30 00:14:58,659 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 104mS.
+2025-07-30 00:14:58,662 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2025-07-30 00:14:58,701 [INFO] ConfigFileManager:1531 - The Die is : DIE413
+2025-07-30 00:14:59,223 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 561mS.
+2025-07-30 00:14:59,223 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2025-07-30 00:14:59,227 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.

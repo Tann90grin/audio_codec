@@ -19,3 +19,33 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\henry\a
 
 !ENTRY com.st.stm32cube.ide.mcu.build 1 1 2025-07-28 23:46:58.676
 !MESSAGE Converted project audio_codec to C++ in 104 (ms)
+!SESSION 2025-07-29 17:32:32.451 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-29 17:32:47.906
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-29 17:32:47.913
+!MESSAGE Log4j2 initialized with config file C:\Users\henry\audio_codec\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-29 17:32:52.419
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-07-29 23:47:40.307 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-29 23:47:56.097
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-29 23:47:56.104
+!MESSAGE Log4j2 initialized with config file C:\Users\henry\audio_codec\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-29 23:48:15.132
+!MESSAGE Started RMI Server, listening on port 41337
