@@ -1,0 +1,11 @@
+#include "WM8731.h"
+
+wm8731::wm8731(I2C_HandleTypeDef *hi2c)
+{
+	this->hi2c = hi2c;
+}
+
+wm8731::wm8731_cmd(uint8_t addr, CTRL_WORD cw)
+{
+	HAL_I2C_Master_Transmit()
+}

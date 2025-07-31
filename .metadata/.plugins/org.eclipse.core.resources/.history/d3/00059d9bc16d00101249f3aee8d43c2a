@@ -1,0 +1,26 @@
+#include <stm32f4xx_hal.h>
+#include <stm32f4xx_ll_dma.h>
+#include <stddef.h>
+#include <stdio.h>
+
+#define I2C_ADDRESS 0x1A
+
+typedef union
+{
+    struct{
+        uint16_t data : 9;
+        uint16_t addr : 7;
+    }DATA;
+
+};
+
+
+class wm8731
+{
+	public:
+		wm8731();
+
+	private:
+		void wm8731_cmd(uint8_t addr, )
+
+};

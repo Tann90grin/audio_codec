@@ -1,0 +1,34 @@
+#include <stm32f4xx_hal.h>
+#include <stm32f4xx_ll_dma.h>
+#include <stddef.h>
+#include <stdio.h>
+
+#define I2C_ADDRESS 0x1A
+
+typedef union
+{
+    struct{
+        uint16_t addr : 7;
+        uint16_t data : 9;
+    }bits;
+    uint8_t ctrl_word[2];
+}CTRL_WORD;
+
+typedef struct
+{
+
+}REG;
+
+
+class wm8731
+{
+	public:
+		wm8731(I2C_HandleTypeDef *hi2c);
+
+	private:
+		//Function prototypes
+		uint8_t wm8731_cmd(uint8_t addr, uint16_t data);
+
+		//Init
+		I2C_HandleTypeDef *hi2c;
+};

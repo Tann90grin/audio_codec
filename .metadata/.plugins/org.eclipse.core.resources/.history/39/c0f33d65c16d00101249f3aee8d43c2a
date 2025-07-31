@@ -1,0 +1,14 @@
+#include <stm32f4xx_hal.h>
+#include <stm32f4xx_ll_dma.h>
+#include <stddef.h>
+#include <stdio.h>
+
+#define I2C_ADDRESS 0x1A
+
+class wm8731
+{
+	public:
+		wm8731();
+
+
+};
