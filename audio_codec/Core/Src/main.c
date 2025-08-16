@@ -28,7 +28,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include <math.h>
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -38,7 +38,9 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define BUFSIZE 1024
+#define BUFSIZE 4096
+#define DEVICE_ADDR 0x34  // Example: MPU6050
+#define REG_ADDR    0x06
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -49,7 +51,11 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
+volatile int16_t txBuffer[BUFSIZE] = {0};
+volatile int16_t rxBuffer[BUFSIZE] = {0};
 
+volatile uint8_t cplt = 0;
+volatile uint8_t hplt = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -99,13 +105,55 @@ int main(void)
   MX_USB_DEVICE_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
+  void wm8731_send(uint16_t addr, uint16_t data){
+  	uint16_t cmd = (addr << 9) | (data & 0x1FF);
+  	uint8_t cmd_buf[2] = {cmd >> 8, cmd & 0xFF};
+  	HAL_I2C_Master_Transmit(&hi2c3, 0x1A<<1, cmd_buf, 2, HAL_MAX_DELAY);
+  }
 
+  void wm8731_reset(void){
+  	uint16_t cmd = (0x0F << 9) | (0x00 & 0x1FF);
+  	uint8_t cmd_buf[2] = {cmd >> 8, cmd & 0xFF};
+  	HAL_I2C_Master_Transmit(&hi2c3, 0x1A<<1, cmd_buf, 2, HAL_MAX_DELAY);
+  }
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+
+
+
+  char msg[128];
+
+
+  wm8731_reset();
+  wm8731_send(0x06,0x00);
+  wm8731_send(0x08,0x00);
+  wm8731_send(0x00,0b000011011);
+  wm8731_send(0x07,0b00000010);
+  wm8731_send(0x05,0xb00110);
+  wm8731_send(0x04,0b00010010);
+  wm8731_send(0x02,0b001111111);
+  wm8731_send(0x09,0x01);
+
+  HAL_I2SEx_TransmitReceive_DMA(&hi2s2,(uint16_t *)txBuffer,(uint16_t *)rxBuffer,BUFSIZE);
+
   while (1)
   {
+
+	  if(cplt == 1){
+		  cplt = 0;
+		  //HAL_GPIO_TogglePin (GPIOB, GPIO_PIN_9);
+
+	  }
+	  if(hplt == 1){
+		  hplt = 0;
+		  //HAL_GPIO_TogglePin (GPIOB, GPIO_PIN_9);
+
+	  }
+
+      //snprintf(msg, sizeof(msg), "%d\r", (int16_t)received_sample[0]);
+      //HAL_UART_Transmit(&huart2, (uint8_t *)msg, strlen(msg), HAL_MAX_DELAY);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -159,7 +207,34 @@ void SystemClock_Config(void)
 }
 
 /* USER CODE BEGIN 4 */
+float soft_clp(float Q, float d, int16_t x_raw){
+	float x = x_raw/32767.0;
+	return ((x-Q)/(1-exp(0-d*(x-Q))))+(Q/(1-exp(d*Q)));
+}
 
+
+
+HAL_I2SEx_TxRxHalfCpltCallback(I2S_HandleTypeDef *hi2s){
+	memcpy((void*)&txBuffer[0], (void*)&rxBuffer[0], BUFSIZE * sizeof(int16_t)/2);
+	for(int i=0;i<BUFSIZE/2;i++){
+//		if(txBuffer[i]>=100){
+//			txBuffer[i]=100;
+//		}
+		txBuffer[i]=soft_clp(-0.2,10.0,txBuffer[i]);
+	}
+	hplt = 1;
+}
+HAL_I2SEx_TxRxCpltCallback(I2S_HandleTypeDef *hi2s){
+//	HAL_I2SEx_TransmitReceive_DMA(&hi2s2,(uint16_t *)txBuffer,(uint16_t *)rxBuffer,BUFSIZE);
+	memcpy((void*)&txBuffer[BUFSIZE/2], (void*)&rxBuffer[BUFSIZE/2], BUFSIZE * sizeof(int16_t)/2);
+	for(int i=BUFSIZE/2;i<BUFSIZE;i++){
+//		if(txBuffer[i]>=100){
+//			txBuffer[i]=100;
+//		}
+		txBuffer[i]=soft_clp(-0.2,10.0,txBuffer[i]);
+	}
+	cplt = 1;
+}
 /* USER CODE END 4 */
 
 /**
